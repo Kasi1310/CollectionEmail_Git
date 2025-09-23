@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\iweb - Assembly\\iweb - Assembly\\Services\\FileImportedServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{497F45BE-C8D8-45E4-87A0-5BF081C0AFC9}|FileImportedServices\\FileImportedServices.csproj|e:\\iweb - assembly\\iweb - assembly\\services\\fileimportedservices\\fileimportedservices\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497F45BE-C8D8-45E4-87A0-5BF081C0AFC9}|FileImportedServices\\FileImportedServices.csproj|solutionrelative:fileimportedservices\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497F45BE-C8D8-45E4-87A0-5BF081C0AFC9}|FileImportedServices\\FileImportedServices.csproj|e:\\iweb - assembly\\iweb - assembly\\services\\fileimportedservices\\fileimportedservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{497F45BE-C8D8-45E4-87A0-5BF081C0AFC9}|FileImportedServices\\FileImportedServices.csproj|solutionrelative:fileimportedservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497F45BE-C8D8-45E4-87A0-5BF081C0AFC9}|FileImportedServices\\FileImportedServices.csproj|e:\\iweb - assembly\\iweb - assembly\\services\\fileimportedservices\\fileimportedservices\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497F45BE-C8D8-45E4-87A0-5BF081C0AFC9}|FileImportedServices\\FileImportedServices.csproj|solutionrelative:fileimportedservices\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\iweb - Assembly\\iweb - Assembly\\Services\\FileImportedServices\\FileImportedServices\\appsettings.json",
+              "RelativeDocumentMoniker": "FileImportedServices\\appsettings.json",
+              "ToolTip": "E:\\iweb - Assembly\\iweb - Assembly\\Services\\FileImportedServices\\FileImportedServices\\appsettings.json",
+              "RelativeToolTip": "FileImportedServices\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T13:09:56.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DB.cs",
+              "DocumentMoniker": "E:\\iweb - Assembly\\iweb - Assembly\\Services\\FileImportedServices\\FileImportedServices\\DB.cs",
+              "RelativeDocumentMoniker": "FileImportedServices\\DB.cs",
+              "ToolTip": "E:\\iweb - Assembly\\iweb - Assembly\\Services\\FileImportedServices\\FileImportedServices\\DB.cs",
+              "RelativeToolTip": "FileImportedServices\\DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:09:56.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "E:\\iweb - Assembly\\iweb - Assembly\\Services\\FileImportedServices\\FileImportedServices\\Worker.cs",
+              "RelativeDocumentMoniker": "FileImportedServices\\Worker.cs",
+              "ToolTip": "E:\\iweb - Assembly\\iweb - Assembly\\Services\\FileImportedServices\\FileImportedServices\\Worker.cs",
+              "RelativeToolTip": "FileImportedServices\\Worker.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAJMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:09:56.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
